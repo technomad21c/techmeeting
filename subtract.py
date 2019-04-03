@@ -1,4 +1,4 @@
 
 
 def subtract(a,b):
-    return 0
+    return a - b
